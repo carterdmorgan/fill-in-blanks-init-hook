@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fill-in-blanks-init-hook.iml" filepath="$PROJECT_DIR$/.idea/modules/fill-in-blanks-init-hook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fill-in-blanks-init-hook_main.iml" filepath="$PROJECT_DIR$/.idea/modules/fill-in-blanks-init-hook_main.iml" group="fill-in-blanks-init-hook" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fill-in-blanks-init-hook_test.iml" filepath="$PROJECT_DIR$/.idea/modules/fill-in-blanks-init-hook_test.iml" group="fill-in-blanks-init-hook" />
+    </modules>
+  </component>
+</project>
